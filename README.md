@@ -10,6 +10,17 @@
 ## 📌 Overview
 **Help Center** is a full-stack web application designed to provide a platform for users to access knowledge, ask questions, and follow tutorials.  
 
+✨ Features
+
+🔐 User registration and authentication
+
+📑 Create, edit, delete, and view articles
+
+❓ Question & Answer system (users ask, admins answer)
+
+🎥 Tutorials and guides
+
+📊 Admin dashboard for managing content
 **Users can:**
 - Browse and read articles  
 - Ask questions and follow discussions  
@@ -56,14 +67,3 @@ npm install
 npm run serve
 
 
-##✨ Features
-
-🔐 User registration and authentication
-
-📑 Create, edit, delete, and view articles
-
-❓ Question & Answer system (users ask, admins answer)
-
-🎥 Tutorials and guides
-
-📊 Admin dashboard for managing content
