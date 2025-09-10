@@ -56,7 +56,7 @@ npm install
 npm run serve
 
 
-✨ Features
+##✨ Features
 
 🔐 User registration and authentication
 
